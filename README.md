@@ -9,6 +9,12 @@
 
 ## Install
 
+`copy .env.example .env`
+
+Then edit .env
+
+`php artisan migrate`
+
 `php artisan jwt:secret`
 
 
